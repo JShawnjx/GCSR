@@ -1,0 +1,8 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!-- options for CGNN -->
+<options> 
+    <Super_resopution category = "Super_resopution">
+        <patch_size>64</patch_size>
+        <scale>2</scale>
+    </Super_resopution>
+</options>
