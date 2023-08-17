@@ -22,3 +22,10 @@ python ./src/main.py --model GCSR --save_results --save_models --cpu
 
 To test image super-resolution, use python ./src/main.py --save_results --test_only --resume 
 
+## dataset
+In the "val" folder:
+https://drive.google.com/drive/folders/1r-W8GuQfxOJNBym2V7gwZxq-RY3zTkX9?usp=drive_link
+
+## Results:
+
+https://drive.google.com/drive/folders/1r-W8GuQfxOJNBym2V7gwZxq-RY3zTkX9?usp=drive_link
